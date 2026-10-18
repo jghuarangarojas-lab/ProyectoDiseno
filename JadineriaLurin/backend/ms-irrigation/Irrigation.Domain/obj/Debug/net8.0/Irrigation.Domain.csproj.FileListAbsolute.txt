@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Domain\bin\Debug\net8.0\Irrigation.Domain.deps.json
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Domain\bin\Debug\net8.0\Irrigation.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Domain\bin\Debug\net8.0\Irrigation.Domain.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Domain\obj\Debug\net8.0\Irrigation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Domain\obj\Debug\net8.0\Irrigation.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Domain\obj\Debug\net8.0\Irrigation.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Domain\obj\Debug\net8.0\Irrigation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Domain\obj\Debug\net8.0\Irrigation.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Domain\obj\Debug\net8.0\refint\Irrigation.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Domain\obj\Debug\net8.0\Irrigation.Domain.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Domain\obj\Debug\net8.0\ref\Irrigation.Domain.dll

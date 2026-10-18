@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <title>Contrato {{ContractNumber}}</title>
+  <style>
+    @page { size: A4; margin: 2cm; }
+    body { font-family: Arial, Helvetica, sans-serif; font-size: 11pt; color: #1f2937; line-height: 1.5; }
+    h1 { font-size: 18pt; text-align: center; margin: 0 0 4px 0; color: #166534; }
+    h2 { font-size: 12pt; margin: 22px 0 8px 0; color: #14532d; border-bottom: 1px solid #86efac; padding-bottom: 4px; }
+    .subtitle { text-align: center; font-size: 10pt; color: #4b5563; margin-bottom: 18px; }
+    .company { font-weight: bold; }
+    table.data { width: 100%; border-collapse: collapse; margin-top: 8px; }
+    table.data th, table.data td { border: 1px solid #d1d5db; padding: 6px 8px; font-size: 10pt; text-align: left; }
+    table.data th { background: #dcfce7; }
+    table.data td.amount, table.data th.amount { text-align: right; }
+    .total-row td { font-weight: bold; background: #f0fdf4; }
+    .signature-area { margin-top: 40px; display: block; }
+    .signature-box { border-top: 1px solid #374151; width: 260px; text-align: center; padding-top: 6px; font-size: 10pt; }
+    .signature-left { float: left; }
+    .signature-right { float: right; }
+    .signature-image { max-height: 90px; max-width: 260px; }
+    .footnote { margin-top: 28px; font-size: 9pt; color: #6b7280; }
+    .badge { display: inline-block; background: #dcfce7; color: #166534; border-radius: 4px; padding: 1px 8px; font-size: 10pt; }
+  </style>
+</head>
+<body>
+  <h1>CONTRATO DE SERVICIOS DE PAISAJISMO</h1>
+  <div class="subtitle">
+    <span class="company">{{CompanyName}}</span> &middot; RUC {{CompanyRuc}} &middot; {{CompanyAddress}}<br />
+    Contrato N.° <strong>{{ContractNumber}}</strong> &middot; Emitido el {{GeneratedAt}}
+  </div>
+
+  <h2>1. Identificación del proyecto</h2>
+  <table class="data">
+    <tr><th>Código de proyecto</th><td>{{ProjectId}}</td></tr>
+    <tr><th>Cliente</th><td>{{ClientId}}</td></tr>
+    <tr><th>Descripción</th><td>{{Title}}</td></tr>
+    <tr><th>Ubicación del servicio</th><td>{{SiteAddress}}</td></tr>
+    <tr><th>Etapa actual</th><td><span class="badge">{{Stage}}</span></td></tr>
+    <tr><th>Presupuesto total</th><td>{{TotalBudget}}</td></tr>
+  </table>
+
+  <h2>2. Objeto del contrato</h2>
+  <p>
+    {{CompanyName}} se compromete a ejecutar las labores de diseño, implementación y mantenimiento
+    de paisajismo descritas en el proyecto <strong>{{Title}}</strong>, ubicado en {{SiteAddress}},
+    por un monto total de <strong>{{TotalBudget}}</strong>, pagadero según el cronograma de cuotas
+    detallado en la sección 3.
+  </p>
+
+  <h2>3. Cronograma de pagos ({{InstallmentsCount}} cuotas)</h2>
+  <table class="data">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Fecha de vencimiento</th>
+        <th class="amount">Monto</th>
+        <th>Estado</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{InstallmentsTable}}
+    </tbody>
+    <tfoot>
+      <tr class="total-row">
+        <td colspan="2">Total a cobrar</td>
+        <td class="amount">{{TotalBudget}}</td>
+        <td>{{InstallmentsCount}} cuotas</td>
+      </tr>
+    </tfoot>
+  </table>
+
+  <h2>4. Compromisos de las partes</h2>
+  <p>
+    El cliente se obliga a realizar los pagos en las fechas indicadas; el prestador se obliga a
+    ejecutar los trabajos conforme a la propuesta técnica aprobada. Cualquier modificación de
+    alcance deberá formalizarse por escrito mediante un addendum.
+  </p>
+  <p>
+    Firmado electrónicamente por ambas partes, el presente contrato adquiere validez conforme a la
+    normativa de documentos electrónicos aplicable.
+  </p>
+
+  <div class="signature-area">
+    <div class="signature-box signature-left">
+      {{SignatureImage}}
+      <br />
+      Cliente<br />{{ClientId}}
+    </div>
+    <div class="signature-box signature-right">
+      {{CompanyName}}<br />RUC {{CompanyRuc}}
+    </div>
+  </div>
+
+  <div class="footnote">
+    Contacto: {{ContactEmail}} &middot; Documento generado automáticamente por ms-services
+    el {{GeneratedAt}}.
+  </div>
+</body>
+</html>

@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Infrastructure\obj\Debug\net8.0\MsServices.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Infrastructure\obj\Debug\net8.0\MsServices.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Infrastructure\obj\Debug\net8.0\MsServices.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Infrastructure\obj\Debug\net8.0\MsServices.Infrastructure.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Infrastructure\obj\Debug\net8.0\MsServices.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Infrastructure\bin\Debug\net8.0\MsServices.Infrastructure.deps.json
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Infrastructure\bin\Debug\net8.0\MsServices.Infrastructure.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Infrastructure\bin\Debug\net8.0\MsServices.Infrastructure.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Infrastructure\bin\Debug\net8.0\MsServices.Application.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Infrastructure\bin\Debug\net8.0\MsServices.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Infrastructure\bin\Debug\net8.0\MsServices.Application.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Infrastructure\bin\Debug\net8.0\MsServices.Domain.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Infrastructure\obj\Debug\net8.0\MsServic.874C80D1.Up2Date
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Infrastructure\obj\Debug\net8.0\MsServices.Infrastructure.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Infrastructure\obj\Debug\net8.0\refint\MsServices.Infrastructure.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Infrastructure\obj\Debug\net8.0\MsServices.Infrastructure.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Infrastructure\obj\Debug\net8.0\ref\MsServices.Infrastructure.dll

@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Domain\bin\Debug\net8.0\MsInventory.Domain.deps.json
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Domain\bin\Debug\net8.0\MsInventory.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Domain\bin\Debug\net8.0\MsInventory.Domain.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Domain\obj\Debug\net8.0\MsInventory.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Domain\obj\Debug\net8.0\MsInventory.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Domain\obj\Debug\net8.0\MsInventory.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Domain\obj\Debug\net8.0\MsInventory.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Domain\obj\Debug\net8.0\MsInventory.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Domain\obj\Debug\net8.0\refint\MsInventory.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Domain\obj\Debug\net8.0\MsInventory.Domain.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Domain\obj\Debug\net8.0\ref\MsInventory.Domain.dll

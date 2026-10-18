@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Domain\bin\Debug\net8.0\MsDelivery.Domain.deps.json
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Domain\bin\Debug\net8.0\MsDelivery.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Domain\bin\Debug\net8.0\MsDelivery.Domain.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Domain\obj\Debug\net8.0\MsDelivery.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Domain\obj\Debug\net8.0\MsDelivery.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Domain\obj\Debug\net8.0\MsDelivery.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Domain\obj\Debug\net8.0\MsDelivery.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Domain\obj\Debug\net8.0\MsDelivery.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Domain\obj\Debug\net8.0\refint\MsDelivery.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Domain\obj\Debug\net8.0\MsDelivery.Domain.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Domain\obj\Debug\net8.0\ref\MsDelivery.Domain.dll

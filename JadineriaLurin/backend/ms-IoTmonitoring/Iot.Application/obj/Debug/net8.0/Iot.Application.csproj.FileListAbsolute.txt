@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Application\bin\Debug\net8.0\Iot.Application.deps.json
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Application\bin\Debug\net8.0\Iot.Application.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Application\bin\Debug\net8.0\Iot.Application.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Application\bin\Debug\net8.0\Iot.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Application\bin\Debug\net8.0\Iot.Domain.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Application\obj\Debug\net8.0\Iot.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Application\obj\Debug\net8.0\Iot.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Application\obj\Debug\net8.0\Iot.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Application\obj\Debug\net8.0\Iot.Application.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Application\obj\Debug\net8.0\Iot.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Application\obj\Debug\net8.0\Iot.Appl.C4C61A3C.Up2Date
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Application\obj\Debug\net8.0\Iot.Application.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Application\obj\Debug\net8.0\refint\Iot.Application.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Application\obj\Debug\net8.0\Iot.Application.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Application\obj\Debug\net8.0\ref\Iot.Application.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\bin\Debug\net8.0\MsInventory.Application.deps.json
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\bin\Debug\net8.0\MsInventory.Application.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\bin\Debug\net8.0\MsInventory.Application.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\bin\Debug\net8.0\MsInventory.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\bin\Debug\net8.0\MsInventory.Domain.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\obj\Debug\net8.0\MsInventory.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\obj\Debug\net8.0\MsInventory.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\obj\Debug\net8.0\MsInventory.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\obj\Debug\net8.0\MsInventory.Application.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\obj\Debug\net8.0\MsInventory.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\obj\Debug\net8.0\MsInvent.DFAA254D.Up2Date
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\obj\Debug\net8.0\MsInventory.Application.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\obj\Debug\net8.0\refint\MsInventory.Application.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\obj\Debug\net8.0\MsInventory.Application.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\obj\Debug\net8.0\ref\MsInventory.Application.dll

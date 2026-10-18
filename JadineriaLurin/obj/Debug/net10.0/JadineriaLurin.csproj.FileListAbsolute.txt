@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\bin\Debug\net10.0\JadineriaLurin.exe
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\bin\Debug\net10.0\JadineriaLurin.deps.json
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\bin\Debug\net10.0\JadineriaLurin.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\bin\Debug\net10.0\JadineriaLurin.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\bin\Debug\net10.0\JadineriaLurin.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\obj\Debug\net10.0\JadineriaLurin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\obj\Debug\net10.0\JadineriaLurin.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\obj\Debug\net10.0\JadineriaLurin.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\obj\Debug\net10.0\JadineriaLurin.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\obj\Debug\net10.0\JadineriaLurin.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\obj\Debug\net10.0\refint\JadineriaLurin.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\obj\Debug\net10.0\JadineriaLurin.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\obj\Debug\net10.0\JadineriaLurin.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\obj\Debug\net10.0\ref\JadineriaLurin.dll

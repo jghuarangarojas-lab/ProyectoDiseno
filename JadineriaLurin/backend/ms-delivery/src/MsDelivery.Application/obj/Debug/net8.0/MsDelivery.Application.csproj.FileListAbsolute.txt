@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Application\bin\Debug\net8.0\MsDelivery.Application.deps.json
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Application\bin\Debug\net8.0\MsDelivery.Application.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Application\bin\Debug\net8.0\MsDelivery.Application.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Application\bin\Debug\net8.0\MsDelivery.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Application\bin\Debug\net8.0\MsDelivery.Domain.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Application\obj\Debug\net8.0\MsDelivery.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Application\obj\Debug\net8.0\MsDelivery.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Application\obj\Debug\net8.0\MsDelivery.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Application\obj\Debug\net8.0\MsDelivery.Application.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Application\obj\Debug\net8.0\MsDelivery.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Application\obj\Debug\net8.0\MsDelive.A4761B7A.Up2Date
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Application\obj\Debug\net8.0\MsDelivery.Application.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Application\obj\Debug\net8.0\refint\MsDelivery.Application.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Application\obj\Debug\net8.0\MsDelivery.Application.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Application\obj\Debug\net8.0\ref\MsDelivery.Application.dll

@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Domain\bin\Debug\net8.0\Iot.Domain.deps.json
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Domain\bin\Debug\net8.0\Iot.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Domain\bin\Debug\net8.0\Iot.Domain.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Domain\obj\Debug\net8.0\Iot.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Domain\obj\Debug\net8.0\Iot.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Domain\obj\Debug\net8.0\Iot.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Domain\obj\Debug\net8.0\Iot.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Domain\obj\Debug\net8.0\Iot.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Domain\obj\Debug\net8.0\refint\Iot.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Domain\obj\Debug\net8.0\Iot.Domain.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-IoTmonitoring\Iot.Domain\obj\Debug\net8.0\ref\Iot.Domain.dll

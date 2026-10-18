@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Domain\bin\Debug\net8.0\MsServices.Domain.deps.json
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Domain\bin\Debug\net8.0\MsServices.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Domain\bin\Debug\net8.0\MsServices.Domain.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Domain\obj\Debug\net8.0\MsServices.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Domain\obj\Debug\net8.0\MsServices.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Domain\obj\Debug\net8.0\MsServices.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Domain\obj\Debug\net8.0\MsServices.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Domain\obj\Debug\net8.0\MsServices.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Domain\obj\Debug\net8.0\refint\MsServices.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Domain\obj\Debug\net8.0\MsServices.Domain.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Domain\obj\Debug\net8.0\ref\MsServices.Domain.dll

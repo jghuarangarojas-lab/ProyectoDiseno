@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8fSvj1/Zsok=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\proyectodiseno\\JadineriaLurin\\backend\\ms-IoTmonitoring\\Iot.Application\\Iot.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Application\bin\Debug\net8.0\Irrigation.Application.deps.json
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Application\bin\Debug\net8.0\Irrigation.Application.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Application\bin\Debug\net8.0\Irrigation.Application.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Application\bin\Debug\net8.0\Irrigation.Domain.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Application\bin\Debug\net8.0\Irrigation.Domain.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Application\obj\Debug\net8.0\Irrigation.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Application\obj\Debug\net8.0\Irrigation.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Application\obj\Debug\net8.0\Irrigation.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Application\obj\Debug\net8.0\Irrigation.Application.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Application\obj\Debug\net8.0\Irrigation.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Application\obj\Debug\net8.0\Irrigati.3370BBE3.Up2Date
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Application\obj\Debug\net8.0\Irrigation.Application.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Application\obj\Debug\net8.0\refint\Irrigation.Application.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Application\obj\Debug\net8.0\Irrigation.Application.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Application\obj\Debug\net8.0\ref\Irrigation.Application.dll
