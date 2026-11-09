@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Irrigation.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+386b0bb352f00bf21d408a43cbe0e2da1ac44a78")]
 [assembly: System.Reflection.AssemblyProductAttribute("Irrigation.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Irrigation.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

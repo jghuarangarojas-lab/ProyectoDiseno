@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.StaticFiles;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.FileProviders;
 using MsInventory.Api.Middleware;
 using MsInventory.Application;
@@ -36,9 +37,8 @@ if (app.Environment.IsDevelopment())
 
     using var scope = app.Services.CreateScope();
     var dbContext = scope.ServiceProvider.GetRequiredService<InventoryDbContext>();
-    var created = await dbContext.Database.EnsureCreatedAsync();
-    if (created)
-        await InventoryDbContextSeed.SeedAsync(dbContext);
+    await dbContext.Database.MigrateAsync();
+    await InventoryDbContextSeed.SeedAsync(dbContext);
 }
 
 app.UseCors("Frontend");

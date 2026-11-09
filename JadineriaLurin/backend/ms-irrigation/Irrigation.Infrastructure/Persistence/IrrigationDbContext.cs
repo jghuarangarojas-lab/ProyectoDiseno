@@ -16,6 +16,8 @@ public class IrrigationDbContext : DbContext
     {
         base.OnModelCreating(modelBuilder);
 
+        modelBuilder.HasDefaultSchema("irrigation");
+
         var irrigationAction = modelBuilder.Entity<IrrigationAction>();
 
         irrigationAction.ToTable("irrigation_actions");

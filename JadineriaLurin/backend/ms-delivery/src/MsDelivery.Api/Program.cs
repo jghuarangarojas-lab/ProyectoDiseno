@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.StaticFiles;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.FileProviders;
 using MsDelivery.Api.Middleware;
 using MsDelivery.Application;
@@ -33,9 +34,8 @@ if (app.Environment.IsDevelopment())
 
     using var scope = app.Services.CreateScope();
     var dbContext = scope.ServiceProvider.GetRequiredService<DeliveryDbContext>();
-    var created = await dbContext.Database.EnsureCreatedAsync();
-    if (created)
-        await DeliveryDbContextSeed.SeedAsync(dbContext);
+    await dbContext.Database.MigrateAsync();
+    await DeliveryDbContextSeed.SeedAsync(dbContext);
 }
 
 app.UseCors("Frontend");

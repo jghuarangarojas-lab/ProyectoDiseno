@@ -573,6 +573,7 @@
         "dependencies": {
           "Irrigation.Application": "1.0.0",
           "Irrigation.Domain": "1.0.0",
+          "LurinSmart.Persistence": "1.0.0",
           "MQTTnet": "4.3.7.1207",
           "Microsoft.EntityFrameworkCore": "8.0.11",
           "Microsoft.Extensions.Hosting.Abstractions": "8.0.1",
@@ -580,6 +581,20 @@
         },
         "runtime": {
           "Irrigation.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LurinSmart.Persistence/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2",
+          "Microsoft.Extensions.Hosting.Abstractions": "8.0.1",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.2",
+          "Npgsql": "8.0.6"
+        },
+        "runtime": {
+          "LurinSmart.Persistence.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -849,6 +864,11 @@
       "sha512": ""
     },
     "Irrigation.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LurinSmart.Persistence/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

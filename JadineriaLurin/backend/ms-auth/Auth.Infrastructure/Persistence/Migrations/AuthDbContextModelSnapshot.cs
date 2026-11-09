@@ -17,6 +17,7 @@ namespace Auth.Infrastructure.Persistence.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
+                .HasDefaultSchema("auth")
                 .HasAnnotation("ProductVersion", "8.0.11")
                 .HasAnnotation("Relational:MaxIdentifierLength", 63);
 
@@ -60,7 +61,7 @@ namespace Auth.Infrastructure.Persistence.Migrations
                     b.HasIndex("UserId")
                         .HasDatabaseName("ix_login_histories_user_id");
 
-                    b.ToTable("login_histories", (string)null);
+                    b.ToTable("login_histories", "auth");
                 });
 
             modelBuilder.Entity("Auth.Domain.Entities.PasswordRecoveryToken", b =>
@@ -106,7 +107,7 @@ namespace Auth.Infrastructure.Persistence.Migrations
                     b.HasIndex("UserId")
                         .HasDatabaseName("ix_password_recovery_tokens_user_id");
 
-                    b.ToTable("password_recovery_tokens", (string)null);
+                    b.ToTable("password_recovery_tokens", "auth");
                 });
 
             modelBuilder.Entity("Auth.Domain.Entities.Role", b =>
@@ -135,7 +136,7 @@ namespace Auth.Infrastructure.Persistence.Migrations
                         .IsUnique()
                         .HasDatabaseName("ix_roles_name");
 
-                    b.ToTable("roles", (string)null);
+                    b.ToTable("roles", "auth");
                 });
 
             modelBuilder.Entity("Auth.Domain.Entities.User", b =>
@@ -199,7 +200,7 @@ namespace Auth.Infrastructure.Persistence.Migrations
                         .IsUnique()
                         .HasDatabaseName("ix_users_username");
 
-                    b.ToTable("users", (string)null);
+                    b.ToTable("users", "auth");
                 });
 
             modelBuilder.Entity("Auth.Domain.Entities.LoginHistory", b =>

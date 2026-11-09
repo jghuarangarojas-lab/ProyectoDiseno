@@ -2,6 +2,7 @@ using Auth.Application.Common.Interfaces;
 using Auth.Application.Common.Models;
 using Auth.Infrastructure.Persistence;
 using Auth.Infrastructure.Services;
+using LurinSmart.Persistence;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -16,10 +17,14 @@ public static class DependencyInjection
         services.Configure<EmailSettings>(configuration.GetSection(EmailSettings.SectionName));
         services.Configure<FrontendSettings>(configuration.GetSection(FrontendSettings.SectionName));
 
-        services.AddDbContext<AuthDbContext>(options =>
+        services.AddDatabaseFailover(configuration);
+
+        services.AddDbContext<AuthDbContext>((provider, options) =>
             options.UseNpgsql(
-                configuration.GetConnectionString("DefaultConnection"),
-                npgsql => npgsql.MigrationsAssembly(typeof(AuthDbContext).Assembly.FullName))
+                provider.GetRequiredService<DatabaseFailoverState>().ActiveConnection,
+                npgsql => npgsql
+                    .MigrationsAssembly(typeof(AuthDbContext).Assembly.FullName)
+                    .MigrationsHistoryTable("__ef_migrations_history", "auth"))
                 .UseSnakeCaseNamingConvention());
 
         services.AddScoped<IAuthDbContext>(provider => provider.GetRequiredService<AuthDbContext>());

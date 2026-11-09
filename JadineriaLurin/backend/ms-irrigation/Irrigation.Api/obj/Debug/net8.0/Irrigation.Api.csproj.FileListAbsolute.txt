@@ -94,9 +94,11 @@ C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irri
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Api\bin\Debug\net8.0\Irrigation.Application.dll
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Api\bin\Debug\net8.0\Irrigation.Domain.dll
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Api\bin\Debug\net8.0\Irrigation.Infrastructure.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Api\bin\Debug\net8.0\LurinSmart.Persistence.dll
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Api\bin\Debug\net8.0\Irrigation.Application.pdb
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Api\bin\Debug\net8.0\Irrigation.Infrastructure.pdb
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Api\bin\Debug\net8.0\Irrigation.Domain.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Api\bin\Debug\net8.0\LurinSmart.Persistence.pdb
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Api\obj\Debug\net8.0\Irrigation.Api.csproj.AssemblyReference.cache
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Api\obj\Debug\net8.0\Irrigation.Api.GeneratedMSBuildEditorConfig.editorconfig
@@ -105,6 +107,7 @@ C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irri
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Api\obj\Debug\net8.0\Irrigation.Api.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Api\obj\Debug\net8.0\Irrigation.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Api\obj\Debug\net8.0\Irrigation.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Api\obj\Debug\net8.0\Irrigation.Api.sourcelink.json
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-irrigation\Irrigation.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

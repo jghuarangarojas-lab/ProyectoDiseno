@@ -960,6 +960,24 @@
         "runtime": {
           "bin/placeholder/Irrigation.Domain.dll": {}
         }
+      },
+      "LurinSmart.Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "8.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2",
+          "Microsoft.Extensions.Hosting.Abstractions": "8.0.1",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.2",
+          "Microsoft.Extensions.Options.ConfigurationExtensions": "8.0.0",
+          "Npgsql": "8.0.6"
+        },
+        "compile": {
+          "bin/placeholder/LurinSmart.Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LurinSmart.Persistence.dll": {}
+        }
       }
     }
   },
@@ -2447,12 +2465,18 @@
       "type": "project",
       "path": "../Irrigation.Domain/Irrigation.Domain.csproj",
       "msbuildProject": "../Irrigation.Domain/Irrigation.Domain.csproj"
+    },
+    "LurinSmart.Persistence/1.0.0": {
+      "type": "project",
+      "path": "../../shared/LurinSmart.Persistence/LurinSmart.Persistence.csproj",
+      "msbuildProject": "../../shared/LurinSmart.Persistence/LurinSmart.Persistence.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Irrigation.Application >= 1.0.0",
       "Irrigation.Domain >= 1.0.0",
+      "LurinSmart.Persistence >= 1.0.0",
       "MQTTnet >= 4.3.7.1207",
       "Microsoft.EntityFrameworkCore >= 8.0.11",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.11",
@@ -2492,6 +2516,9 @@
             },
             "C:\\Users\\Lenovo\\Desktop\\proyectodiseno\\JadineriaLurin\\backend\\ms-irrigation\\Irrigation.Domain\\Irrigation.Domain.csproj": {
               "projectPath": "C:\\Users\\Lenovo\\Desktop\\proyectodiseno\\JadineriaLurin\\backend\\ms-irrigation\\Irrigation.Domain\\Irrigation.Domain.csproj"
+            },
+            "C:\\Users\\Lenovo\\Desktop\\proyectodiseno\\JadineriaLurin\\backend\\shared\\LurinSmart.Persistence\\LurinSmart.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Desktop\\proyectodiseno\\JadineriaLurin\\backend\\shared\\LurinSmart.Persistence\\LurinSmart.Persistence.csproj"
             }
           }
         }

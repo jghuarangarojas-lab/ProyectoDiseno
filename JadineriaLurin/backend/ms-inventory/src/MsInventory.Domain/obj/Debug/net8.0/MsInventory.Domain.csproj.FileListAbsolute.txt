@@ -5,6 +5,7 @@ C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\M
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Domain\obj\Debug\net8.0\MsInventory.Domain.AssemblyInfoInputs.cache
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Domain\obj\Debug\net8.0\MsInventory.Domain.AssemblyInfo.cs
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Domain\obj\Debug\net8.0\MsInventory.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Domain\obj\Debug\net8.0\MsInventory.Domain.sourcelink.json
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Domain\obj\Debug\net8.0\MsInventory.Domain.dll
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Domain\obj\Debug\net8.0\refint\MsInventory.Domain.dll
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Domain\obj\Debug\net8.0\MsInventory.Domain.pdb

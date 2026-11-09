@@ -1,3 +1,4 @@
+using LurinSmart.Persistence;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using MsInventory.Application.Abstractions;
@@ -18,9 +19,13 @@ public static class DependencyInjection
         services.Configure<LocalFileStorageOptions>(
             configuration.GetSection(LocalFileStorageOptions.SectionName));
 
-        services.AddDbContext<InventoryDbContext>(options =>
+        services.AddDatabaseFailover(configuration);
+
+        services.AddDbContext<InventoryDbContext>((provider, options) =>
             options
-                .UseNpgsql(configuration.GetConnectionString("InventoryDb"))
+                .UseNpgsql(
+                    provider.GetRequiredService<DatabaseFailoverState>().ActiveConnection,
+                    npgsql => npgsql.MigrationsHistoryTable("__ef_migrations_history", "inventory"))
                 .UseSnakeCaseNamingConvention());
 
         services.AddScoped<IInventoryRepository, InventoryRepository>();

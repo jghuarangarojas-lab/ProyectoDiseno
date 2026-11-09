@@ -88,6 +88,27 @@ public class User : BaseEntity
         };
     }
 
+    public void AssignRole(Role role)
+    {
+        if (role is null)
+        {
+            throw new DomainException("El rol es obligatorio.");
+        }
+
+        var separatorIndex = Username.IndexOf("@JL", StringComparison.OrdinalIgnoreCase);
+        var embeddedRole = separatorIndex >= 0
+            ? Username[(separatorIndex + 3)..]
+            : string.Empty;
+
+        if (!string.Equals(embeddedRole, role.Name, StringComparison.OrdinalIgnoreCase))
+        {
+            throw new DomainException("El rol embebido en el username no coincide con el rol asignado.");
+        }
+
+        Role = role;
+        RoleId = role.Id;
+    }
+
     public void IncrementFailedAttempts() => FailedAttempts++;
 
     public void ResetFailedAttempts() => FailedAttempts = 0;

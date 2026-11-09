@@ -1,3 +1,4 @@
+using LurinSmart.Persistence;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -20,9 +21,13 @@ public static class DependencyInjection
         services.Configure<WhatsAppOptions>(
             configuration.GetSection(WhatsAppOptions.SectionName));
 
-        services.AddDbContext<DeliveryDbContext>(options =>
+        services.AddDatabaseFailover(configuration);
+
+        services.AddDbContext<DeliveryDbContext>((provider, options) =>
             options
-                .UseNpgsql(configuration.GetConnectionString("DeliveryDb"))
+                .UseNpgsql(
+                    provider.GetRequiredService<DatabaseFailoverState>().ActiveConnection,
+                    npgsql => npgsql.MigrationsHistoryTable("__ef_migrations_history", "delivery"))
                 .UseSnakeCaseNamingConvention());
 
         services.AddScoped<IDeliveryRepository, DeliveryRepository>();

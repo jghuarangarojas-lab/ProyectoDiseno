@@ -10,8 +10,11 @@ C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\Ms
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Infrastructure\obj\Debug\net8.0\MsDelivery.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Infrastructure\obj\Debug\net8.0\MsDelivery.Infrastructure.AssemblyInfo.cs
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Infrastructure\obj\Debug\net8.0\MsDelivery.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Infrastructure\obj\Debug\net8.0\MsDelivery.Infrastructure.sourcelink.json
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Infrastructure\obj\Debug\net8.0\MsDelive.489054F7.Up2Date
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Infrastructure\obj\Debug\net8.0\MsDelivery.Infrastructure.dll
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Infrastructure\obj\Debug\net8.0\refint\MsDelivery.Infrastructure.dll
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Infrastructure\obj\Debug\net8.0\MsDelivery.Infrastructure.pdb
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Infrastructure\obj\Debug\net8.0\ref\MsDelivery.Infrastructure.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Infrastructure\bin\Debug\net8.0\LurinSmart.Persistence.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Infrastructure\bin\Debug\net8.0\LurinSmart.Persistence.pdb

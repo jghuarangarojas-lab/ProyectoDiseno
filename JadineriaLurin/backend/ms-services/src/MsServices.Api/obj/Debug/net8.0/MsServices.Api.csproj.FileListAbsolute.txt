@@ -124,6 +124,7 @@ C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\Ms
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Api\obj\Debug\net8.0\MsServices.Api.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Api\obj\Debug\net8.0\MsServices.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Api\obj\Debug\net8.0\MsServices.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Api\obj\Debug\net8.0\MsServices.Api.sourcelink.json
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -139,3 +140,6 @@ C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\Ms
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Api\obj\Debug\net8.0\MsServices.Api.pdb
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Api\obj\Debug\net8.0\MsServices.Api.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Api\obj\Debug\net8.0\ref\MsServices.Api.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Api\bin\Debug\net8.0\LurinSmart.Persistence.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Api\bin\Debug\net8.0\LurinSmart.Persistence.pdb

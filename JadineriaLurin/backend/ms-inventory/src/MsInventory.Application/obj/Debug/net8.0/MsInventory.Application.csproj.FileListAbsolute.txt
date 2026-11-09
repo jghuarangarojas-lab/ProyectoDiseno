@@ -8,6 +8,7 @@ C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\M
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\obj\Debug\net8.0\MsInventory.Application.AssemblyInfoInputs.cache
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\obj\Debug\net8.0\MsInventory.Application.AssemblyInfo.cs
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\obj\Debug\net8.0\MsInventory.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\obj\Debug\net8.0\MsInventory.Application.sourcelink.json
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\obj\Debug\net8.0\MsInvent.DFAA254D.Up2Date
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\obj\Debug\net8.0\MsInventory.Application.dll
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Application\obj\Debug\net8.0\refint\MsInventory.Application.dll

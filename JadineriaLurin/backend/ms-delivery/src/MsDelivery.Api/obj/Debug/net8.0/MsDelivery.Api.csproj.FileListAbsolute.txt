@@ -103,6 +103,7 @@ C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\Ms
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Api\obj\Debug\net8.0\MsDelivery.Api.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Api\obj\Debug\net8.0\MsDelivery.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Api\obj\Debug\net8.0\MsDelivery.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Api\obj\Debug\net8.0\MsDelivery.Api.sourcelink.json
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -118,3 +119,7 @@ C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\Ms
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Api\obj\Debug\net8.0\MsDelivery.Api.pdb
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Api\obj\Debug\net8.0\MsDelivery.Api.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Api\obj\Debug\net8.0\ref\MsDelivery.Api.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Api\bin\Debug\net8.0\LurinSmart.Persistence.dll
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Api\bin\Debug\net8.0\LurinSmart.Persistence.pdb

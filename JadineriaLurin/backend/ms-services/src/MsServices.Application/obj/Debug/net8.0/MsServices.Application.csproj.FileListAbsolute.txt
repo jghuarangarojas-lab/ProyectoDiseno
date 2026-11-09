@@ -8,6 +8,7 @@ C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\Ms
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Application\obj\Debug\net8.0\MsServices.Application.AssemblyInfoInputs.cache
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Application\obj\Debug\net8.0\MsServices.Application.AssemblyInfo.cs
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Application\obj\Debug\net8.0\MsServices.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Application\obj\Debug\net8.0\MsServices.Application.sourcelink.json
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Application\obj\Debug\net8.0\MsServic.E156E736.Up2Date
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Application\obj\Debug\net8.0\MsServices.Application.dll
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-services\src\MsServices.Application\obj\Debug\net8.0\refint\MsServices.Application.dll

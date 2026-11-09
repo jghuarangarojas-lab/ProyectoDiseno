@@ -3,13 +3,16 @@ C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\M
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Infrastructure\obj\Debug\net8.0\MsInventory.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Infrastructure\obj\Debug\net8.0\MsInventory.Infrastructure.AssemblyInfo.cs
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Infrastructure\obj\Debug\net8.0\MsInventory.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Infrastructure\obj\Debug\net8.0\MsInventory.Infrastructure.sourcelink.json
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Infrastructure\bin\Debug\net8.0\MsInventory.Infrastructure.deps.json
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Infrastructure\bin\Debug\net8.0\MsInventory.Infrastructure.dll
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Infrastructure\bin\Debug\net8.0\MsInventory.Infrastructure.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Infrastructure\bin\Debug\net8.0\LurinSmart.Persistence.dll
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Infrastructure\bin\Debug\net8.0\MsInventory.Application.dll
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Infrastructure\bin\Debug\net8.0\MsInventory.Domain.dll
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Infrastructure\bin\Debug\net8.0\MsInventory.Application.pdb
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Infrastructure\bin\Debug\net8.0\MsInventory.Domain.pdb
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Infrastructure\bin\Debug\net8.0\LurinSmart.Persistence.pdb
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Infrastructure\obj\Debug\net8.0\MsInvent.5F636B50.Up2Date
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Infrastructure\obj\Debug\net8.0\MsInventory.Infrastructure.dll
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-inventory\src\MsInventory.Infrastructure\obj\Debug\net8.0\refint\MsInventory.Infrastructure.dll

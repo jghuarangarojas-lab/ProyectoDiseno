@@ -16,6 +16,7 @@ public class DeliveryDbContext : DbContext
     {
         base.OnModelCreating(modelBuilder);
 
+        modelBuilder.HasDefaultSchema("delivery");
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(DeliveryDbContext).Assembly);
     }
 }

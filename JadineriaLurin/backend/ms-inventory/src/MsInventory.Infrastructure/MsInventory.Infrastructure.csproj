@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\MsInventory.Application\MsInventory.Application.csproj" />
     <ProjectReference Include="..\MsInventory.Domain\MsInventory.Domain.csproj" />
+    <ProjectReference Include="..\..\..\shared\LurinSmart.Persistence\LurinSmart.Persistence.csproj" />
   </ItemGroup>
 
   <ItemGroup>

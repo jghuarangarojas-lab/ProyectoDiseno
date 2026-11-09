@@ -9,6 +9,7 @@
   <ItemGroup>
     <ProjectReference Include="..\MsDelivery.Application\MsDelivery.Application.csproj" />
     <ProjectReference Include="..\MsDelivery.Domain\MsDelivery.Domain.csproj" />
+    <ProjectReference Include="..\..\..\shared\LurinSmart.Persistence\LurinSmart.Persistence.csproj" />
   </ItemGroup>
 
   <ItemGroup>

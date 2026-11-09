@@ -5,6 +5,7 @@ C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\Ms
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Domain\obj\Debug\net8.0\MsDelivery.Domain.AssemblyInfoInputs.cache
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Domain\obj\Debug\net8.0\MsDelivery.Domain.AssemblyInfo.cs
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Domain\obj\Debug\net8.0\MsDelivery.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Domain\obj\Debug\net8.0\MsDelivery.Domain.sourcelink.json
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Domain\obj\Debug\net8.0\MsDelivery.Domain.dll
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Domain\obj\Debug\net8.0\refint\MsDelivery.Domain.dll
 C:\Users\Lenovo\Desktop\proyectodiseno\JadineriaLurin\backend\ms-delivery\src\MsDelivery.Domain\obj\Debug\net8.0\MsDelivery.Domain.pdb

@@ -19,6 +19,7 @@ public class ServicesDbContext : DbContext
     {
         base.OnModelCreating(modelBuilder);
 
+        modelBuilder.HasDefaultSchema("services");
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(ServicesDbContext).Assembly);
     }
 }

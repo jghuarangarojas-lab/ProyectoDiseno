@@ -3,6 +3,7 @@ using Irrigation.Application.Interfaces.Repositories;
 using Irrigation.Infrastructure.Messaging;
 using Irrigation.Infrastructure.Persistence;
 using Irrigation.Infrastructure.Persistence.Repositories;
+using LurinSmart.Persistence;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -15,10 +16,12 @@ public static class InfrastructureServiceCollectionExtensions
     {
         services.Configure<MqttOptions>(configuration.GetSection(MqttOptions.SectionName));
 
-        services.AddDbContext<IrrigationDbContext>(options =>
+        services.AddDatabaseFailover(configuration);
+
+        services.AddDbContext<IrrigationDbContext>((provider, options) =>
             options.UseNpgsql(
-                configuration.GetConnectionString("Postgres"),
-                npgsql => npgsql.MigrationsHistoryTable("__irrigation_migrations", "public")));
+                provider.GetRequiredService<DatabaseFailoverState>().ActiveConnection,
+                npgsql => npgsql.MigrationsHistoryTable("__ef_migrations_history", "irrigation")));
 
         services.AddScoped<IIrrigationRepository, IrrigationRepository>();
         services.AddSingleton<IMqttPublisher, MqttPublisher>();

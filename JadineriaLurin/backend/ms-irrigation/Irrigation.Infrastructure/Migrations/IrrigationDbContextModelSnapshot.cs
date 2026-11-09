@@ -17,6 +17,7 @@ namespace Irrigation.Infrastructure.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
+                .HasDefaultSchema("irrigation")
                 .HasAnnotation("ProductVersion", "8.0.11")
                 .HasAnnotation("Relational:MaxIdentifierLength", 63);
 
@@ -106,7 +107,7 @@ namespace Irrigation.Infrastructure.Migrations
                     b.HasIndex("DeviceId", "Status")
                         .HasDatabaseName("ix_irrigation_actions_device_id_status");
 
-                    b.ToTable("irrigation_actions", (string)null);
+                    b.ToTable("irrigation_actions", "irrigation");
                 });
 #pragma warning restore 612, 618
         }

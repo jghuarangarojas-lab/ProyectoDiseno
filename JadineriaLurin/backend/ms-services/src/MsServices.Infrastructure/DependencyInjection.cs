@@ -1,3 +1,4 @@
+using LurinSmart.Persistence;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -23,9 +24,13 @@ public static class DependencyInjection
         services.Configure<MsCommercialOptions>(
             configuration.GetSection(MsCommercialOptions.SectionName));
 
-        services.AddDbContext<ServicesDbContext>(options =>
+        services.AddDatabaseFailover(configuration);
+
+        services.AddDbContext<ServicesDbContext>((provider, options) =>
             options
-                .UseNpgsql(configuration.GetConnectionString("ServicesDb"))
+                .UseNpgsql(
+                    provider.GetRequiredService<DatabaseFailoverState>().ActiveConnection,
+                    npgsql => npgsql.MigrationsHistoryTable("__ef_migrations_history", "services"))
                 .UseSnakeCaseNamingConvention());
 
         services.AddScoped<IServiceProjectRepository, ServiceProjectRepository>();
